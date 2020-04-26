@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Code-Minifier/static/css/main.1bc565a8.chunk.css",
+    "main.js": "/Code-Minifier/static/js/main.de1143ad.chunk.js",
+    "main.js.map": "/Code-Minifier/static/js/main.de1143ad.chunk.js.map",
+    "runtime-main.js": "/Code-Minifier/static/js/runtime-main.ac1529d1.js",
+    "runtime-main.js.map": "/Code-Minifier/static/js/runtime-main.ac1529d1.js.map",
+    "static/js/2.61c9d5f3.chunk.js": "/Code-Minifier/static/js/2.61c9d5f3.chunk.js",
+    "static/js/2.61c9d5f3.chunk.js.map": "/Code-Minifier/static/js/2.61c9d5f3.chunk.js.map",
+    "index.html": "/Code-Minifier/index.html",
+    "precache-manifest.2e8ee99e162d7d8f639777614abecbec.js": "/Code-Minifier/precache-manifest.2e8ee99e162d7d8f639777614abecbec.js",
+    "service-worker.js": "/Code-Minifier/service-worker.js",
+    "static/css/main.1bc565a8.chunk.css.map": "/Code-Minifier/static/css/main.1bc565a8.chunk.css.map",
+    "static/js/2.61c9d5f3.chunk.js.LICENSE.txt": "/Code-Minifier/static/js/2.61c9d5f3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ac1529d1.js",
+    "static/js/2.61c9d5f3.chunk.js",
+    "static/css/main.1bc565a8.chunk.css",
+    "static/js/main.de1143ad.chunk.js"
+  ]
+}
