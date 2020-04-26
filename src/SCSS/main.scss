@@ -1,0 +1,172 @@
+
+.succesfull {
+    position: absolute;
+    display: none;
+    width: 60%;
+    height: 40%;
+    top: 30%;
+    left: 20%;
+    box-sizing: border-box;
+    background-color: rgba($color: #000000, $alpha: 0.2);
+    z-index: 10000;
+    padding: 0;
+    margin: 0;
+    transition: display 1.2s;
+    .copied {
+        text-align: center;
+        font-size: 13vw;
+        stroke-width: 5px;
+        color: rgb(255, 20, 20);
+        font-weight: bold; 
+    }
+}
+.top {
+    width: 100%;
+    position: fixed;
+    height: 14vh;
+    background-color: rgb(199, 199, 199);
+}
+
+h1 {
+    text-align: center;
+    font-size: 10vh;
+    margin: 0;
+
+    color: rgb(39, 39, 39);
+}
+
+.minifierInput {
+    position: relative;
+    width: 38%;
+    height: 40vh;
+    left: 8%;
+    background-color: rgb(39, 39, 39);
+    top: 25vh;
+    float: left;
+}
+.minifierOutput {
+    position: relative;
+    width: 38%;
+    height: 40vh;
+    left: 16%;
+    background-color: rgb(39, 39, 39);
+    top: 25vh;
+    float: left;
+}
+.inputBox {
+    width: 96%;
+    height: 80%;
+    position: absolute;
+    top: 2%;
+    left: 2%;
+}
+.outputBox {
+    width: 96%;
+    height: 80%;
+    top: 2%;
+    left: 2%;
+    position: absolute;
+    background-color: white;
+    overflow-x: auto;
+    -moz-user-select: none;
+    -khtml-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+.input {
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    padding-top: 2vh;
+    padding-left: 2vh;
+    padding-right: 2vh;
+    box-sizing: border-box;
+    resize: none;
+    position: absolute;
+    font-size: 1em;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: white;
+    border: none;
+    outline: none;
+
+}
+::placeholder {
+    color: black;
+    text-align: center;
+    font-size: large;
+    line-height: 2em;
+    padding: 0;
+
+}
+.btn {
+    width: 30%;
+    height: 12%;
+    position: absolute;
+    color: white;
+    bottom: 3%;
+    left: 35%;
+    border: none;
+    outline: none;
+    background-color: rgb(124, 124, 124);
+}
+
+.convert {
+    padding: 0;
+    margin: 0;
+    font-size: 1em;
+    text-align: center;
+}
+
+.output {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    resize: none;
+    overflow: auto;
+}
+
+.result {
+    width: 100%;
+    height: 100%;
+    background-color: white;
+    position: absolute;
+    -moz-user-select: none;
+    -khtml-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+
+.copyImage {
+    width: 15%;
+    height: 16%;
+    position: absolute;
+    bottom: 1%;
+    left: 42.5%;
+    transition: opacity 0.3s;
+    z-index: 998;
+}
+
+.copyImg {
+    width: 100%;
+    height: 100%;
+    z-index: 999;
+}
+.toolTip {
+    width: 100%;
+    height: 60%;
+    top: -100%;
+    display: none;
+    transition:  .3s;
+    opacity: .6;
+    position: absolute;
+    background-color: black;
+    z-index: 1000;
+    color: white;
+    text-align: center;
+    padding-top: 10%;
+}
+
