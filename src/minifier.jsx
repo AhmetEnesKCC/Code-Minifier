@@ -46,7 +46,7 @@ class Minifier extends React.Component {
         <div className="minifierInput">
           <div className="inputBox">
             <form onSubmit={this.takeData}>
-            <textarea  name="data" placeholder="Put Your CSS CODE HERE"  rows="10" cols="50" className="input"></textarea>
+            <textarea  name="data" placeholder="Put Your  CODE HERE"  rows="10" cols="50" className="input"></textarea>
             <button className="btn">
             <p  className="convert">ReScale</p>
             </button>  
