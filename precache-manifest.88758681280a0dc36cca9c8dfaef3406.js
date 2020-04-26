@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9b685382d2db53238c6a48b913d3cd04",
+    "revision": "9a829254a3eeda7c615e71199f2104f7",
     "url": "/Code-Minifier/index.html"
   },
   {
-    "revision": "14546712f041068b6b4c",
+    "revision": "bbdb890b17da498e478e",
     "url": "/Code-Minifier/static/css/main.9b8d499c.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Code-Minifier/static/js/2.61c9d5f3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "14546712f041068b6b4c",
-    "url": "/Code-Minifier/static/js/main.8f3fbd9e.chunk.js"
+    "revision": "bbdb890b17da498e478e",
+    "url": "/Code-Minifier/static/js/main.aa711562.chunk.js"
   },
   {
     "revision": "c53b6d766c2ca8333153",

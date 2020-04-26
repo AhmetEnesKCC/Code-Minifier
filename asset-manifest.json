@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Code-Minifier/static/css/main.9b8d499c.chunk.css",
-    "main.js": "/Code-Minifier/static/js/main.8f3fbd9e.chunk.js",
-    "main.js.map": "/Code-Minifier/static/js/main.8f3fbd9e.chunk.js.map",
+    "main.js": "/Code-Minifier/static/js/main.aa711562.chunk.js",
+    "main.js.map": "/Code-Minifier/static/js/main.aa711562.chunk.js.map",
     "runtime-main.js": "/Code-Minifier/static/js/runtime-main.ac1529d1.js",
     "runtime-main.js.map": "/Code-Minifier/static/js/runtime-main.ac1529d1.js.map",
     "static/js/2.61c9d5f3.chunk.js": "/Code-Minifier/static/js/2.61c9d5f3.chunk.js",
     "static/js/2.61c9d5f3.chunk.js.map": "/Code-Minifier/static/js/2.61c9d5f3.chunk.js.map",
     "index.html": "/Code-Minifier/index.html",
-    "precache-manifest.1569a0d3eebbb13453a1dd80f9bcbf7e.js": "/Code-Minifier/precache-manifest.1569a0d3eebbb13453a1dd80f9bcbf7e.js",
+    "precache-manifest.88758681280a0dc36cca9c8dfaef3406.js": "/Code-Minifier/precache-manifest.88758681280a0dc36cca9c8dfaef3406.js",
     "service-worker.js": "/Code-Minifier/service-worker.js",
     "static/css/main.9b8d499c.chunk.css.map": "/Code-Minifier/static/css/main.9b8d499c.chunk.css.map",
     "static/js/2.61c9d5f3.chunk.js.LICENSE.txt": "/Code-Minifier/static/js/2.61c9d5f3.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.ac1529d1.js",
     "static/js/2.61c9d5f3.chunk.js",
     "static/css/main.9b8d499c.chunk.css",
-    "static/js/main.8f3fbd9e.chunk.js"
+    "static/js/main.aa711562.chunk.js"
   ]
 }
